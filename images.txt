@@ -1,1 +1,1 @@
-docker.io/java:openjdk-8
+docker.io/nginx
