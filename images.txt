@@ -1,1 +1,1 @@
-k8s.gcr.io/kube-apiserver:v1.25.1
+docker.io/jimmidyson/configmap-reload:v0.8.0
