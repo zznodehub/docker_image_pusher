@@ -1,1 +1,1 @@
-gcr.io/pixie-oss/pixie-prod/operator/bundle:0.1.6
+gcr.io/pixie-oss/pixie-prod/operator-operator_image:0.1.6
