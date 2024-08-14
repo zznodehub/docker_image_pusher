@@ -1,1 +1,2 @@
-docker.io/jimmidyson/configmap-reload:v0.8.0
+apache/skywalking-oap-server:9.1.0
+apache/skywalking-ui:9.1.0
