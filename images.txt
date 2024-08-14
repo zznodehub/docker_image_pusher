@@ -1,2 +1,1 @@
-apache/skywalking-oap-server:9.1.0
-apache/skywalking-ui:9.1.0
+gcr.io/pixie-oss/pixie-prod/operator/bundle_index:0.0.1
