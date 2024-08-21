@@ -1,1 +1,1 @@
-docker.io/apache/skywalking-oap-server:9.1.0
+docker.io/frolvlad/alpine-oraclejre8:slim
