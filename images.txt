@@ -1,1 +1,1 @@
-docker.io/frolvlad/alpine-oraclejre8:slim
+python:3.10
