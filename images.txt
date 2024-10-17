@@ -1,1 +1,1 @@
-docker.io/seldonio/mlserver:1.0.0
+nvcr.io/nvidia/tritonserver:21.09-py3
