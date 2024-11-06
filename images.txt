@@ -1,1 +1,1 @@
-nvcr.io/nvidia/tritonserver:21.09-py3
+docker.io/library/nginx:1.26.1
