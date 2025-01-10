@@ -1,1 +1,2 @@
-minio/minio:RELEASE.2024-12-13T22-19-12Z
+apache/skywalking-oap-server:10.1.0
+apache/skywalking-ui:10.1.0
