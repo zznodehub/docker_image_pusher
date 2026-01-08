@@ -1,1 +1,1 @@
-busybox:latest
+adoptopenjdk/openjdk11:jdk-11.0.16.1_1
