@@ -1,1 +1,12 @@
-adoptopenjdk/openjdk11:jdk-11.0.16.1_1
+langgenius/dify-api:1.16.0
+langgenius/dify-web:1.16.0
+langgenius/dify-sandbox:0.2.15
+langgenius/dify-agent-local-sandbox:1.16.0
+langgenius/dify-plugin-daemon:0.6.3-local
+langgenius/dify-agent-backend:1.16.0
+langgenius/qdrant:v1.8.3
+ubuntu/squid:latest
+nginx:latest
+semitechnologies/weaviate:1.27.0
+pgvector/pgvector:pg16
+redis:6-alpine
