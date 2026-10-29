@@ -1,1 +1,6 @@
-eyeix/meilisearch-ui:latest
+ghcr.io/canner/wren-bootstrap:0.1.5
+ghcr.io/canner/wren-engine:0.22.0
+ghcr.io/canner/wren-engine-ibis:0.22.0
+ghcr.io/canner/wren-ui:0.32.3
+ghcr.io/canner/wren-ai-service:0.29.3
+qdrant/qdrant:v1.15.0
