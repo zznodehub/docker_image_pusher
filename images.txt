@@ -1,1 +1,1 @@
-ghcr.io/canner/wren-engine-ibis:0.22.0
+ghcr.io/canner/wren-ui:0.32.3
