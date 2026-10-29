@@ -1,1 +1,1 @@
-ghcr.io/canner/wren-ui:0.32.3
+ghcr.io/canner/wren-ai-service:0.29.3
