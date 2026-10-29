@@ -1,1 +1,1 @@
-qdrant/qdrant:v1.15.0
+ghcr.io/canner/wren-engine-ibis:0.22.0
