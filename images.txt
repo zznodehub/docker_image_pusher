@@ -1,1 +1,1 @@
-ghcr.io/canner/wren-bootstrap:0.1.5
+ghcr.io/canner/wren-engine:0.22.0
